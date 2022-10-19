@@ -1,0 +1,2 @@
+hi, trying to push it in Git repo 
+trying to check if my git installation is fine.
